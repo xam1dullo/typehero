@@ -1,5 +1,9 @@
-# typehero
+# [Typehero.dev](https://typehero.dev)
 
-## Typescript learning challenges
+### Type Challenges
 
-1 . [Generic Function Arguments](https://github.com/xam1dullo/typehero/blob/main/Generic%20Function%20Arguments/task.md)
+> Engage in TypeScript challenges to strengthen your grasp of the type system and advanced features
+
+---
+
+## [Typescript Cheat Sheets](https://github.com/xam1dullo/typehero/blob/main/Typescript%20Cheat%20Sheets/)

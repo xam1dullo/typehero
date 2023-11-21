@@ -75,8 +75,4 @@ Then, provide a generic argument as a type for `arr`. After you do that, think a
 
 In this particular case, if you spend a few minutes with it don't be afraid to check out some solutions. The second example is here to widen your perspective more than anything else. It's good to wrestle with tough problems, even ones that are above your ability level.
 
-```bash
-      echo "A cheatsheet from quickref.com"
-```
-
-echo "A cheatsheet from quickref.me"
+[Back](https://github.com/xam1dullo/typehero)

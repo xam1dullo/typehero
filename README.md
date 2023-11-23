@@ -14,4 +14,5 @@
 
 ## Beginer
 
-- [Primitive Data Types](https://github.com/xam1dullo/typehero/blob/main/challenges/primitive-data-types/prompt.md)
+- [Primitive Data Types](https://github.com/xam1dullo/typehero/blob/main/challenges/primitive-data-types/prompt.md) , 2023-11-22
+- [Type Aliases](https://github.com/xam1dullo/typehero/blob/main/challenges/type-aliases/prompt.md), 2023-11-23

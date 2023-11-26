@@ -1,5 +1,16 @@
-type GroceryList = unknown;
+type GroceryList = {
+  [name: string]: number | string | boolean;
+};
 
-type InappropriateActionBySituation = unknown;
+type InappropriateActionBySituation = {
+  [property: string]: Array<string>;
+};
 
-type CharactersById = unknown;
+type CharactersById = {
+  [property: number]: {
+    id: number;
+    name: string;
+    status: string;
+    species: string;
+  };
+};

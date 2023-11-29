@@ -9,4 +9,4 @@ type GroceryItem<Name, Price, InStock> = {
   inStock: InStock;
 };
 
-type CapreseSalad = GroceryItem<"MacBook", 2000, true>;
+type CapreseSalad = GroceryItem<"Caprese Salad", 14.99, true>;

@@ -9,9 +9,9 @@ type IsOperational = boolean;
 type Kilograms = number;
 type Count = number;
 type Payload = {
-  name: Name;
-  mass: Kilograms;
-  // the tests show that you need a `mass` property here
-  // but first you might need to create an alias for `Kilograms`
-  // because that's the value of `mass`
+    name: Name;
+    mass: Kilograms;
+    // the tests show that you need a `mass` property here
+    // but first you might need to create an alias for `Kilograms`
+    // because that's the value of `mass`
 };
